@@ -7,3 +7,5 @@ Repositório criado ao longo do curso em vídeo.
 Essa linha eu adicionei direto pelo site
 
 Uma nova alteração para testar pull
+
+Um novo input para testar push
